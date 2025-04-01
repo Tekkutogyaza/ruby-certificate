@@ -31,6 +31,16 @@ The main documentation is organized by certification levels:
   - Practice resources
   - Exam registration information
 
+- [Ruby Gold Certification](ruby_gold/README.md) - Contains comprehensive materials for Ruby Gold certification including:
+  - Execution environments
+  - Syntax fundamentals
+  - Object oriented programing
+  - Metaprograming
+  - Built-in libraries
+  - Standard libraries
+  - Practice resources
+  - Exam registration information
+
 ## Contributing
 
 Feel free to contribute by:
